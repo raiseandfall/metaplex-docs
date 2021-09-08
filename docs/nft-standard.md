@@ -28,7 +28,7 @@ The program also specifies optional structs used for the creation `Master Editio
 ## URI JSON Schema
 To display off-chain metadata of SPL tokens, the on-chain struct needs to contain a URI as described above, which will allow your wallet to find it.
 
-Your wallet should be using the JSON standard as described in the Metaplex Developer Guide. You should also also supports additional optional fields, such as the `attributes` field, as described in the OpenSea NFT Standard.
+Your wallet should be using the JSON standard as described in the Metaplex Developer Guide. You should also support additional optional fields, such as the `attributes` field, as described in the OpenSea NFT Standard.
 
 The file below should be used as a reference.
 
